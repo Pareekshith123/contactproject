@@ -1,0 +1,9 @@
+.form{
+    padding: 15px;
+   
+
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+.containerl1{
+    background-image: linear-gradient(180deg, rgb(119, 245, 228), yellow);
+}
