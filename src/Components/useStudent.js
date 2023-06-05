@@ -9,6 +9,8 @@ function useStudent() {
   const [contacts, setContacts] = useState([""]);
   const Paperstyle = { padding: '50px 20px', width: 600, margin: '20px auto' };
 
+  console.warn("testing the github")
+
   const Handleclick = (e) => {
     e.preventDefault();
     const contact = { name, phone, address };
